@@ -1,5 +1,5 @@
 Attribute VB_Name = "stockVBA_multiYear_FINAL"
-'*** Runs through one year of all stocks
+'*** Runs through all years of all stocks
 ' The method stockVBA_multiYear_FINAL loops through all the stocks for every year for each run and takes the following information.
 
   '* The ticker symbol.
